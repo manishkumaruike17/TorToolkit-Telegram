@@ -5,20 +5,20 @@ except:
         # Set true if its VPS
         IS_VPS = False
         
-        API_HASH = ""
-        API_ID = 0
-        BOT_TOKEN = ""
-        BASE_URL_OF_BOT = ""
+        API_HASH = "dbec7da7301afcbd31963fe5a59a5b18"
+        API_ID = 2730702
+        BOT_TOKEN = "1863542672:AAES_95Emx9PYMJh0HUWP1JeHEsZ_aSLS2o"
+        BASE_URL_OF_BOT = "http://t.me/TorrentLeechManishbot"
 
         # Edit the server port if you want to keep it default though.
         SERVPORT = 80
 
         # ALLOWED USERS [ids of user or supergroup] seperate by commas
-        ALD_USR = []
+        ALD_USR = [781384534,-1001343147853]
         OWNER_ID = 0
         
         # Google Drive Index Link should include the base dir also See readme for more info
-        GD_INDEX_URL = False
+        GD_INDEX_URL = True
 
         # Time to wait before edit message
         EDIT_SLEEP_SECS = 40
